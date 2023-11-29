@@ -1,0 +1,7 @@
+{
+  "name": "uberClone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
